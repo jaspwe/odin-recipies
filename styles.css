@@ -1,0 +1,17 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: auto;
+    height: 200px;
+}
+
+#recipe-list{
+    text-align: center;
+}
